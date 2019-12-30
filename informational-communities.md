@@ -6,4 +6,4 @@
 | Country based | Country from where the route is originated | $YOUR_AS:$M49_COUNTRY_ID | rt:$YOUR_AS:$M49_COUNTRY_ID | N/A | |
 | Metro based | Metropolitan area from where the route is originated | $YOUR_AS:$METRO_ID | rt:$YOUR_AS:$METRO_ID | N/A | |
 
-M49 Standard country or area codes : https://unstats.un.org/unsd/methodology/m49/
+M49 Standard country or area codes: <https://unstats.un.org/unsd/methodology/m49/>
