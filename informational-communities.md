@@ -4,6 +4,6 @@
 |---|---|---|---|---|---|
 | Continent based | Identify the continent from where the route is originated | $YOUR_AS:$M49_CONTINENT_ID | rt:$YOUR_AS:$M49_CONTINENT_ID | N/A | |
 | Country based | Identify the country from where the route is originated | $YOUR_AS:$M49_COUNTRY_ID | rt:$YOUR_AS:$M49_COUNTRY_ID | N/A | |
-| Metro based | Identify metropolitan area from where the route is originated | $YOUR_AS:$METRO_ID | rt:$YOUR_AS:$METRO_ID | N/A | |
+| Metro based | Identify the metropolitan area from where the route is originated | $YOUR_AS:$METRO_ID | rt:$YOUR_AS:$METRO_ID | N/A | |
 
 M49 Standard country or area codes: <https://unstats.un.org/unsd/methodology/m49/>
